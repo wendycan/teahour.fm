@@ -11,9 +11,9 @@
     <id>http://teahour.fm</id>
     <link href="http://teahour.fm/"/>
     <link href="http://teahour.fm/feed.xml" rel="self"/>
-    <updated>Mon, 21 Apr 2014 04:00:00 -0000</updated>
-    <lastBuildDate>Mon, 21 Apr 2014 04:00:00 -0000</lastBuildDate>
-    <pubDate>Mon, 21 Apr 2014 04:00:00 -0000</pubDate>
+    <updated>Tue, 13 May 2014 04:00:00 -0000</updated>
+    <lastBuildDate>Tue, 13 May 2014 04:00:00 -0000</lastBuildDate>
+    <pubDate>Tue, 13 May 2014 04:00:00 -0000</pubDate>
     <description>Teahour.fm 由 Terry Tai，Dingding Ye, Daniel Lv, Kevin Wang 和 Xdite Cheng 主持，会专注程序员感兴趣的话题，包括 Web 设计和开发，移动应用设计和开发，创业以及一切 Geek 的话题。</description>
     <author>
       <name>Teahour.fm</name>
@@ -27,25 +27,209 @@
     <itunes:category text="Software How-To"/>
     <itunes:category text="Gadgets"/>
     <item>
-      <title>#51 Interview with Ari Lerner about AngularJS</title>
-      <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
+      <title>#54 和小波一起聊聊Maker和开源硬件</title>
+      <itunes:author>terry</itunes:author>
+      <itunes:summary type="html">&lt;h4 id="section"&gt;本期的话题&lt;/h4&gt;
+&lt;p&gt;伴随着 &lt;a href="http://www.arduino.cc/"&gt;Arduino&lt;/a&gt; 和 &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; 在中国的普及和兴起，
+Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到Maker 社区的小波，和大家一起聊聊中国的 Maker 和 开源硬件。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://seeedstudio.com"&gt;Seed Studio&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
+      <description type="html">&lt;h4 id="section"&gt;本期的话题&lt;/h4&gt;
+&lt;p&gt;伴随着 &lt;a href="http://www.arduino.cc/"&gt;Arduino&lt;/a&gt; 和 &lt;a href="http://www.raspberrypi.org/"&gt;Raspberry Pi&lt;/a&gt; 在中国的普及和兴起，
+Maker 成为一个炙手可热的话题。这一期节目我们就有幸请到Maker 社区的小波，和大家一起聊聊中国的 Maker 和 开源硬件。&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://seeedstudio.com"&gt;Seed Studio&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://adafruit.com"&gt;Adafruit&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://sparkfun.com"&gt;Sparkfun&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20365163"&gt;创客&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.espruino.com/"&gt;espruino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/kyab/mruby-arduino"&gt;mruby-arduino&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://makerfaire.com/"&gt;Maker Faire Bay Area&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.shenzhenmakerfaire.com/"&gt;Maker Faire Shenzhen&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://learn.adafruit.com"&gt;Adafruit learn&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.chaihuo.org/blog/"&gt;柴火创客空间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xinchejian.com/"&gt;上海新车间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.bjmakerspace.com/"&gt;北京创客空间&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://v.youku.com/v_show/id_XMzkyOTY4NTc2.html"&gt;激光打蚊子&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://hackerspaces.org/wiki/Hackerspaces"&gt;全球 HackerSpace / MakerSpace 汇总&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://redpitaya.com/"&gt;Red Pitaya&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.poppy-project.org/"&gt;开源机器人&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.osvehicle.com/"&gt;开源汽车&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+
+</description>
+      <link>http://teahour.fm/2014/05/13/interview-with-xiaobo-about-maker.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_54.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_54.m4a</guid>
+      <pubDate>Tue, 13 May 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>3537</itunes:duration>
+      <itunes:keywords>maker, Open source hardware</itunes:keywords>
+    </item>
+    <item>
+      <title>#53 跟 ThoughtWorks 的面试官聊聊面试这件事</title>
+      <itunes:author>daniel</itunes:author>
+      <itunes:summary type="html">&lt;h4 id="section"&gt;缘起：&lt;/h4&gt;
+
+&lt;p&gt;ThoughtWorks 是传说中的十大最难面试公司之首，前段时间 ThoughtWorks 的 HR 任蕙在 RubyChina 发了一篇帖子，标题是：“找工作的人那么多，为什么我还招不到人？来吐槽面试好么?” 并收到了很多网友的问题，我联系了任蕙，争取到一次采访两位来自 ThoughtWorks 的面试官的机会，于是我带着这些问题走进了 ThoughtWorks 北京办公室，开始了本次访谈。&lt;/p&gt;
+
+&lt;p&gt;在准备这期访谈之前，我有一个疑虑，很担心本期的采访嘉宾，ThoughtWorks 的面试官韩凯和王健会以公司发言人的态度和方式应对本次访谈，但是当我见到两位面试官后，我的疑虑被彻底打消了。两位面试官一开始就以当年黑暗的亲身经历，给我们展现了两个活生生的草根逆袭的励志故事，然后一步一步解构一家全球顶尖IT公司的面试流程每个环节，特点，并给出非常实际可操作性极强的建议，访谈中两位面试官诙谐幽默，让整个过程笑场不断，内容让人深受启发却又感觉轻松欢快……&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;h4 id="section"&gt;缘起：&lt;/h4&gt;
+
+&lt;p&gt;ThoughtWorks 是传说中的十大最难面试公司之首，前段时间 ThoughtWorks 的 HR 任蕙在 RubyChina 发了一篇帖子，标题是：“找工作的人那么多，为什么我还招不到人？来吐槽面试好么?” 并收到了很多网友的问题，我联系了任蕙，争取到一次采访两位来自 ThoughtWorks 的面试官的机会，于是我带着这些问题走进了 ThoughtWorks 北京办公室，开始了本次访谈。&lt;/p&gt;
+
+&lt;p&gt;在准备这期访谈之前，我有一个疑虑，很担心本期的采访嘉宾，ThoughtWorks 的面试官韩凯和王健会以公司发言人的态度和方式应对本次访谈，但是当我见到两位面试官后，我的疑虑被彻底打消了。两位面试官一开始就以当年黑暗的亲身经历，给我们展现了两个活生生的草根逆袭的励志故事，然后一步一步解构一家全球顶尖IT公司的面试流程每个环节，特点，并给出非常实际可操作性极强的建议，访谈中两位面试官诙谐幽默，让整个过程笑场不断，内容让人深受启发却又感觉轻松欢快……&lt;/p&gt;
+
+&lt;h4 id="section-1"&gt;本期的话题&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;十大入职面试最难的科技公司，ThoughtWorks 排名第一，你敢来挑战么？&lt;/li&gt;
+  &lt;li&gt;两位 ThoughtWorks 的面试官用自己当年的面试经历现身说法。&lt;/li&gt;
+  &lt;li&gt;ThoughtWorks 的面试号称业界最难，他们面试方式给候选人带来怎样的压力，候选人在面试中可能容易犯的错误，以及面试官建议。&lt;/li&gt;
+  &lt;li&gt;ThoughtWorks 是一家什么样的公司，入职 ThoughtWorks 可以给你怎样的成长和未来？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;section class="notes"&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/jobthoughtworks"&gt;ThoughtWorks的HR任蕙&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org/topics/18061"&gt;找工作的人辣么多，为什么我还招不到人。来吐槽面试好么&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.crazyenglish.com/"&gt;疯狂英语&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://gigix.thoughtworkers.org"&gt;熊节&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://dreamhead.blogbus.com/"&gt;梦想风暴&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E6%AF%8F%E5%88%86%E9%92%9F%E6%93%8D%E4%BD%9C%E6%95%B0"&gt;APM&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.lagou.com/subject/s_thoughtworks.html"&gt;最难面试的IT公司，你敢来挑战么？&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh-cn/%E7%BB%93%E5%AF%B9%E7%BC%96%E7%A8%8B"&gt;结对编程&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://ruby-china.org"&gt;RubyChina&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91"&gt;敏捷软件开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh/%E7%B2%BE%E7%9B%8A%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91"&gt;精益软件开发&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.docbook.org/"&gt;Docbook&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.scala-lang.org/"&gt;Scala&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard"&gt;HHKB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html"&gt;Aeron Chairs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.thoughtworks.com/products/go-continuous-delivery"&gt;ThoughtWorks Go&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://zh.wikipedia.org/zh-cn/%E9%A9%AC%E4%B8%81%C2%B7%E7%A6%8F%E5%8B%92"&gt;马丁·福勒&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://brainbits.wordpress.com/2012/07/24/thoughtworks-university/"&gt;ThoughtWorks University&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/3609132/"&gt;把时间当作朋友&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://weibo.com/ibuick"&gt;ibuick&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://book.douban.com/subject/20268969/"&gt;OS X Mountain Lion高手进阶&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://baike.baidu.com/view/5253255.htm"&gt;CI&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://xueqiu.com/zhuankan"&gt;雪球专刊&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/05/09/job-interview-at-thoughtworks.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_53.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_53.m4a</guid>
+      <pubDate>Fri, 09 May 2014 02:00:00 -0000</pubDate>
+      <itunes:duration>5715</itunes:duration>
+      <itunes:keywords>job, interview, thoughtworks</itunes:keywords>
+    </item>
+    <item>
+      <title>#52 简书的故事</title>
+      <itunes:author>dingding</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了简书的创始人&lt;a href="http://jianshu.io/users/y3Dbcz"&gt;林立&lt;/a&gt;来跟我们一起聊聊简书的创业故事。当然，xdite 是另一个内容平台 logdown 的创始人，所以也有不少 logdown 的故事分享。&lt;/p&gt;
+
+&lt;p&gt;本期话题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;如何看待内容平台&lt;/li&gt;
+  &lt;li&gt;为什么选择做简书这个项目，选择的背后&lt;/li&gt;
+  &lt;li&gt;简书、内容平台、Blog 平台，三者的思考&lt;/li&gt;
+&lt;/ol&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;本期由&lt;a href="http://yedingding.com"&gt;玎玎&lt;/a&gt;主持，&lt;a href="http://blog.xdite.net"&gt;xdite&lt;/a&gt; 联合主持，邀请到了简书的创始人&lt;a href="http://jianshu.io/users/y3Dbcz"&gt;林立&lt;/a&gt;来跟我们一起聊聊简书的创业故事。当然，xdite 是另一个内容平台 logdown 的创始人，所以也有不少 logdown 的故事分享。&lt;/p&gt;
+
+&lt;p&gt;本期话题：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;如何看待内容平台&lt;/li&gt;
+  &lt;li&gt;为什么选择做简书这个项目，选择的背后&lt;/li&gt;
+  &lt;li&gt;简书、内容平台、Blog 平台，三者的思考&lt;/li&gt;
+  &lt;li&gt;对于简书未来的期望和商业模式的思考&lt;/li&gt;
+  &lt;li&gt;内容平台的鸡和蛋问题，如何获取第一批用户&lt;/li&gt;
+  &lt;li&gt;运营经验分享，效果好的，效果不理想的&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;简书目前在招聘，有兴趣的朋友看这里：&lt;a href="http://jianshu.io/p/gonzAc"&gt;http://jianshu.io/p/gonzAc&lt;/a&gt;&lt;/p&gt;
+
+&lt;section class="notes"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://jianshu.io"&gt;简书&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://logdown.com"&gt;logdown&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://instagram.com/"&gt;instagram&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://medium.com"&gt;Medium&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://fengcheco.com"&gt;风车&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://octopress.org"&gt;Octopress&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://ghost.org/"&gt;Ghost&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com"&gt;Github&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.techbang.com/"&gt;T 客邦&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://teahour.fm/2013/09/16/interview-with-zhao-bo-about-jianshu.html"&gt;跟简书的赵波聊从大公司到创业&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://shiseapp.com/"&gt;食色&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://penflip.com"&gt;penflip&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://mindnode.com/"&gt;MindNode&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://yedingding.com/2014/04/17/test-your-mvp-seriously.html"&gt;Test Your MVP, Seriously&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/section&gt;
+</description>
+      <link>http://teahour.fm/2014/04/28/the-story-of-jianshu.html</link>
+      <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_52.m4a" type="audio/x-m4a"/>
+      <guid>http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_52.m4a</guid>
+      <pubDate>Mon, 28 Apr 2014 04:00:00 -0000</pubDate>
+      <itunes:duration>5325</itunes:duration>
+      <itunes:keywords>创业, 简书</itunes:keywords>
+    </item>
+    <item>
+      <title>#51 Interview with Ari Lerner about AngularJS</title>
+      <itunes:author>kevin</itunes:author>
+      <itunes:summary type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://www.ng-book.com/"&gt;ng-book, The Complete Book on AngularJS&lt;/a&gt;, &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
+</itunes:summary>
+      <itunes:image href="http://teahour.fm/images/logo.png"/>
+      <description type="html">&lt;p&gt;In this Episode Kevin interview with Ari to talk about AngularJS. Ari is the author of &lt;a href="https://www.ng-book.com/"&gt;ng-book, The Complete Book on AngularJS&lt;/a&gt;, &lt;a href="https://leanpub.com/angularjs-rails"&gt;Riding Rails with AngularJS&lt;/a&gt; and &lt;a href="https://leanpub.com/d3angularjs"&gt;D3 on AngularJS&lt;/a&gt;. Also he is the CTO and Founder at FullStack LLC.&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://github.com/auser/beehive"&gt;Beehive&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://backbonejs.org/"&gt;BackboneJS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://emberjs.com/"&gt;EmberJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://knockoutjs.com/"&gt;KnockoutJS&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://angularjs.org/"&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://pluralsight.com/training"&gt;pluralsight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jasmine.github.io/"&gt;Jasmine&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://karma-runner.github.io/0.12/index.html"&gt;Karma&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://github.com/angular/protractor"&gt;Protractor&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://velocity.oreilly.com.cn/"&gt;China Velocity&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://golang.org/"&gt;Golang&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://www.ecamm.com/mac/callrecorder/"&gt;Alfred App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.erlang.org/"&gt;Erlang&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://clojure.org/"&gt;Clojure&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://nodejs.org/"&gt;Node&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://passportjs.org/"&gt;Passport&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ng-newsletter.com/"&gt;ng-newsletter&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.ng-book.com/"&gt;ng-book&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://tinyhabits.com/"&gt;Tiny Habits&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html"&gt;Building the 2048 Game in AngularJS&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://leanpub.com/"&gt;LeanPub&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://pluralsight.com/training"&gt;pluralsight&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://egghead.io/"&gt;Egghead&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://fullstackedu.com/"&gt;Fullstack Edu&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://www.alfredapp.com/"&gt;Alfred App&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://agilebits.com/onepassword"&gt;1Password&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.rogueamoeba.com/audiohijackpro/"&gt;Audio Hijack Pro&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
-
 </description>
       <link>http://teahour.fm/2014/04/21/interview-with-ari-lerner.html</link>
       <enclosure url="http://screencasts.b0.upaiyun.com/podcasts/teahour_episode_51.m4a" type="audio/x-m4a"/>
@@ -162,6 +346,7 @@
   &lt;li&gt;&lt;a href="http://weibo.com/u/1115970444"&gt;袁滚滚&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.ted.com/talks/larry_page_where_s_google_going_next"&gt;Larry Page TED talk&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://tv.sohu.com/s2012/personofinterest1/"&gt;疑犯追踪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/helix1/"&gt;双螺旋&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://tv.sohu.com/s2013/houseofcards1/"&gt;纸牌屋&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.itgonglun.com/"&gt;IT公论&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href="http://www.zhihu.com/question/19551518"&gt;李如一&lt;/a&gt;&lt;/li&gt;
@@ -1619,16 +1804,16 @@
     <item>
       <title>#18 采访《七周七数据库》作者 Eric Redmond - 数据库的故事</title>
       <itunes:author>kevin</itunes:author>
-      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+      <itunes:summary type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 </itunes:summary>
       <itunes:image href="http://teahour.fm/images/logo.png"/>
-      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
+      <description type="html">&lt;p&gt;本期由 &lt;a href="http://knwang.com"&gt;Kevin Wang&lt;/a&gt; 主持，&lt;a href="http://yedingding.com"&gt;Dingding Ye&lt;/a&gt; 协作主持，邀请到 &lt;a href="http://pragprog.com/book/rwdata/seven-databases-in-seven-weeks"&gt;《Seven Databases in Seven Weeks》&lt;/a&gt; 作者 &lt;a href="http://www.coderoshi.com/"&gt;Eric Redmond&lt;/a&gt; 畅聊数据库。Eric 目前是 &lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt; 的核心开发人员，在两个小时时间了，Eric 介绍了 PostgreSQL、MongoDB、CouchDB、HBase、Cassandra、Redis、Riak、Neo4J 的各自设计思想和优缺点，同时在最后也分享了他个人在数据库选择上的一些考虑原则。&lt;/p&gt;
 
 &lt;section class="notes"&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href="https://basho.com"&gt;Basho&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://pragprog.com/book/btlang/seven-languages-in-seven-weeks"&gt;Seven Languages in Seven Weeks&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="https://www.mongohq.com/‎"&gt;MongoHQ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.mongohq.com/"&gt;MongoHQ&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem"&gt;CAP theorem&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.postgresql.org"&gt;PostgreSQL&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.mongodb.org"&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
@@ -1638,7 +1823,10 @@
     &lt;li&gt;&lt;a href="http://redis.io"&gt;Redis&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="https://basho.com/riak"&gt;Riak&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.neo4j.org"&gt;Neo4J&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dynamo_(storage_system)‎"&gt;Dynamo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dynamo_(storage_system)"&gt;Dynamo&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://voltdb.com/"&gt;VoltDB&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://jung.sourceforge.net/"&gt;JUNG&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://docs.neo4j.org/chunked/milestone/cypher-query-lang.html"&gt;Cypher&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Eventual_consistency"&gt;Eventual Consistency&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://www.google.com/glass/start/how-to-get-one/"&gt;Google Glass Explorer Program&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href="http://littleriakbook.com"&gt;The Little Riak Book&lt;/a&gt;&lt;/li&gt;
